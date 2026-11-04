@@ -1,7 +1,7 @@
 ==================================
        REPORTE DEL PROYECTO
 ==================================
-Fecha: mié 04 nov 2026 12:37:01 -05
+Fecha: mié 04 nov 2026 12:46:01 -05
 Usuario: alex
 Servidor: serverlinux
 Sistema operativo:
@@ -13,7 +13,7 @@ Filesystem                         Size  Used Avail Use% Mounted on
 
 Uso de memoria:
                total        used        free      shared  buff/cache   available
-Mem:           3,3Gi       631Mi       1,4Gi       1,5Mi       1,5Gi       2,7Gi
+Mem:           3,3Gi       622Mi       1,4Gi       1,5Mi       1,5Gi       2,7Gi
 Swap:          3,8Gi          0B       3,8Gi
 
 Scripts disponibles:
