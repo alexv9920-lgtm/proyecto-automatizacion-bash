@@ -1,0 +1,13 @@
+31/10/2026 19:18:42 | alex | CREAR Examen
+31/10/2026 19:20:37 | alex | CREAR notas
+31/10/2026 19:22:44 | alex | COPIAR notas -> copia_notas
+31/10/2026 19:24:35 | alex | ELIMINAR Examen
+31/10/2026 22:22:48 | alex | CREAR informe.txt
+31/10/2026 22:23:18 | alex | ELIMINAR informe.txt
+31/10/2026 22:23:39 | alex | CREAR informe.txt
+31/10/2026 22:24:13 | alex | ELIMINAR informe.txt
+31/10/2026 22:25:03 | alex | CREAR Informe.txt
+31/10/2026 22:26:56 | alex | COPIAR Informe.txt -> copia_Informe.txt
+31/10/2026 22:29:34 | alex | PERMISOS Informe.txt -> 444
+31/10/2026 22:31:44 | alex | DUENO copia_Informe.txt -> root
+31/10/2026 22:33:21 | alex | ELIMINAR copia_Informe.txt

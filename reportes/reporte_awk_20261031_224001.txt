@@ -1,0 +1,15 @@
+==============================================
+       REPORTE DE SERVIDORES CON AWK
+==============================================
+Fecha: sáb 31 oct 2026 22:40:01 -05
+
+SERVIDOR        DISCO(%)     CPU(%)       MEMORIA(%)   ESTADO      
+SRV-WEB01       85           45           60           ALERTA      
+SRV-BD01        72           81           77           ALERTA      
+SRV-APP01       40           30           55           NORMAL      
+SRV-FILES       93           20           35           ALERTA      
+SRV-MAIL        35           25           40           NORMAL      
+
+Total de servidores: 5
+Servidores en alerta: 3
+Servidores normales: 2

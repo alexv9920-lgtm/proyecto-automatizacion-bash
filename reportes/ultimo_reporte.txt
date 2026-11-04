@@ -1,0 +1,29 @@
+==================================
+       REPORTE DEL PROYECTO
+==================================
+Fecha: mié 04 nov 2026 12:37:01 -05
+Usuario: alex
+Servidor: serverlinux
+Sistema operativo:
+Linux serverlinux 7.0.0-38-generic #38-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep  4 09:10:14 UTC 2026 x86_64 GNU/Linux
+
+Uso de disco:
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   48G  7,2G   39G  16% /
+
+Uso de memoria:
+               total        used        free      shared  buff/cache   available
+Mem:           3,3Gi       631Mi       1,4Gi       1,5Mi       1,5Gi       2,7Gi
+Swap:          3,8Gi          0B       3,8Gi
+
+Scripts disponibles:
+total 56K
+-r-xr-xr-x 1 alex alex 8.7K Oct 31 19:30 analisis.sh
+-rwxr-xr-x 1 alex alex  976 Oct 31 20:59 eliminar_fecha.sh
+-r-xr-xr-x 1 alex alex 8.3K Oct 31 19:17 gestor.sh
+-rwxr-xr-x 1 alex alex 1.4K Oct 31 20:57 limpieza.sh
+-r-xr-xr-x 1 alex alex  803 Oct 31 21:04 reemplazar.sh
+-r-xr-xr-x 1 alex alex  676 Oct 31 19:10 reporte.sh
+-r-xr-xr-x 1 alex alex 1.1K Oct 31 21:01 reporte_awk.sh
+-r-xr-xr-x 1 alex alex  11K Oct 31 20:44 tareas.sh
+==================================

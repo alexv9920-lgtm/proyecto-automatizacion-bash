@@ -1,0 +1,3 @@
+El servidor Ubuntu presenta una observacion.
+El servidor Ubuntu necesita mantenimiento.
+El servidor Ubuntu requiere una revision.

@@ -1,0 +1,6 @@
+# nombre;ip;ruta;disco%;cpu%;memoria%
+SRV-WEB01;192.168.10.11;/var/www;85;45;60
+SRV-BD01;192.168.10.12;/var/lib/mysql;72;81;77
+SRV-APP01;192.168.10.13;/opt/app;40;30;55
+SRV-FILES;192.168.10.14;/srv/files;93;20;35
+SRV-MAIL;192.168.10.15;/var/mail;35;25;40

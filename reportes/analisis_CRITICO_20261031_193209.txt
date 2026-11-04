@@ -1,0 +1,30 @@
+==============================================================
+ANALISIS DE SERVIDORES | Fecha: 31/10/2026 19:32:09 | Usuario: alex
+Umbral de alerta: 70%
+==============================================================
+
+[1] FILTRO: SERVIDORES CON USO MAYOR AL 70%
++------------+-----------------+-----------------+-------+------+-------+----------+----------------+
+| SERVIDOR   | IP              | RUTA            | DISCO | CPU  | MEM   | ESTADO   | MOTIVO         |
++------------+-----------------+-----------------+-------+------+-------+----------+----------------+
+| SRV-WEB01  | 192.168.10.11   | /var/www        |   85% |  45% |   60% | CRITICO  | DISCO          |
+| SRV-BD01   | 192.168.10.12   | /var/lib/mysql  |   72% |  81% |   77% | CRITICO  | DISCO CPU MEM  |
+| SRV-FILES  | 192.168.10.14   | /srv/files      |   93% |  20% |   35% | CRITICO  | DISCO          |
++------------+-----------------+-----------------+-------+------+-------+----------+----------------+
+
+[2] LISTA COMPLETA DE SERVIDORES
++------------+-----------------+-----------------+-------+------+-------+----------+----------------+
+| SERVIDOR   | IP              | RUTA            | DISCO | CPU  | MEM   | ESTADO   | MOTIVO         |
++------------+-----------------+-----------------+-------+------+-------+----------+----------------+
+| serverlinux | 192.168.255.131 | /               |   16% |   1% |   18% | NORMAL   | -              |
+| SRV-WEB01  | 192.168.10.11   | /var/www        |   85% |  45% |   60% | CRITICO  | DISCO          |
+| SRV-BD01   | 192.168.10.12   | /var/lib/mysql  |   72% |  81% |   77% | CRITICO  | DISCO CPU MEM  |
+| SRV-APP01  | 192.168.10.13   | /opt/app        |   40% |  30% |   55% | NORMAL   | -              |
+| SRV-FILES  | 192.168.10.14   | /srv/files      |   93% |  20% |   35% | CRITICO  | DISCO          |
+| SRV-MAIL   | 192.168.10.15   | /var/mail       |   35% |  25% |   40% | NORMAL   | -              |
++------------+-----------------+-----------------+-------+------+-------+----------+----------------+
+
+RESUMEN: 6 servidores analizados | 3 CRITICO(S) | 3 NORMAL(ES)
+ESTADO GENERAL: CRITICO
+Servidores alertados guardados en: /home/alex/proyecto_bash/analisis/servidores_alertados.txt
+>>> ANALISIS FINALIZADO <<<
